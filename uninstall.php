@@ -1,0 +1,1 @@
+delete_option('kl-metabox-header-color');
