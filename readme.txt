@@ -2,7 +2,7 @@
 Contributors: trepmal
 Donate link: http://kaileylampert.com/donate/
 Tags: metabox, style, mu-compatible
-Requires at least: 2.8
+Requires at least: 3.5
 Tested up to: 5.7
 Stable tag: trunk
 
@@ -10,7 +10,7 @@ Change the color for the metabox headers
 
 == Description ==
 
-This plugin isn't very useful today.
+This plugin isn't very useful in modern WordPress, as most metaboxes are being replaced with the Block Editor experience.
 
 Change the color for the metabox headers for easy visibility.
 
@@ -26,6 +26,9 @@ Change the color for the metabox headers for easy visibility.
 1. Background, text, and shadow color options.
 
 == Changelog ==
+
+= 1.6 =
+* basic upkeep
 
 = 1.5 =
 * minor css tweak. due to low number of downloads, this may be the plugin's last update
