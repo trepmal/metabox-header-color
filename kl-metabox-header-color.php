@@ -4,7 +4,7 @@ Plugin Name: Metabox Header Color
 Plugin URI: http://trepmal.com/plugins/metabox-header-color/
 Description: Change the color for metabox headers
 Author: Kailey Lampert
-Version: 1.5
+Version: 1.6
 Author URI: http://kaileylampert.com/
 */
 /*
