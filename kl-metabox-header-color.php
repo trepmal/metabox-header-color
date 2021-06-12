@@ -64,6 +64,10 @@ class Metabox_Header_Color {
 			color: <?php echo esc_html( $hex_codes['tx'] ); ?>;
 			text-shadow: 0 1px 0 <?php echo esc_html( $hex_codes['sh'] ); ?>;
 		}
+		.postbox-header span,
+		.postbox-header h2 {
+			color: <?php echo esc_html( $hex_codes['tx'] ); ?>;
+		}
 		</style><?php
 	}
 
