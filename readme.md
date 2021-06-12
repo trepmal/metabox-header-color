@@ -1,3 +1,5 @@
+[![Deploy to WordPress.org](https://github.com/trepmal/metabox-header-color/actions/workflows/deploy.yml/badge.svg)](https://github.com/trepmal/metabox-header-color/actions/workflows/deploy.yml)
+
 # Metabox Header Color
 
 Contributors: trepmal  
